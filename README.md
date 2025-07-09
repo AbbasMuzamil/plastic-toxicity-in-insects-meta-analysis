@@ -1,11 +1,14 @@
 <div style="font-family: 'Times New Roman', serif; font-size: 16px;">
 
 <div align="center">
+
+
+
   
 # **A Global Meta-Analysis Reveals the Toxicity of Plastics on Insect Health**
 
-<a href="https://doi.org/10.5281/zenodo.xxxxxxx">
-  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg" style="height:20px;"></a>
+<a href="https://doi.org/10.5281/zenodo.15845164">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15845164.svg" style="height:20px;"></a>
 <a href="./LICENSE">
   <img src="https://img.shields.io/badge/license-MIT+CC--BY--NC--ND%204.0-blue.svg" style="height:20px;"></a>
 <a href="https://www.r-project.org/">
@@ -73,7 +76,9 @@ These results highlight the ecological risks posed by plastic pollution and the 
 > [https://doi.org/10.1016/j.ecoenv.xxxxxx](https://doi.org/10.1016/j.ecoenv.xxxxxx)  
 >  
 > **Zenodo Repository:**  
-> Muzamil Abbas et al. (2025). *Data and code for "A Global Meta-Analysis Reveals the Toxicity of Plastics on Insect Health"*. Zenodo. [https://doi.org/10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx)
+> Abbas, M. (2025). *AbbasMuzamil/plastic-toxicity-in-insects-meta-analysis: v2.0* (v2.0) [Data and Code]. Zenodo.  
+> [https://doi.org/10.5281/zenodo.15845164](https://doi.org/10.5281/zenodo.15845164)
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15845164.svg)](https://doi.org/10.5281/zenodo.15845164)
 
 📌 Please cite both the **published article** and this **GitHub repository** when using data or code from this project.
 
